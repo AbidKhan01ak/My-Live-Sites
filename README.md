@@ -11,7 +11,7 @@ Welcome to my collection of live web applications! Below, you'll find links to e
    A web app that converts spoken words into text in real-time using advanced speech recognition.  
 
 3. **[TexTer](https://texter-io.netlify.app/)**  
-   A versatile text operation tool for formatting, analyzing, and generating text effortlessly.  
+   A versatile text operation tool for formatting, analyzing, and generating text effortlessly.(Only frontend Live)  
 
 4. **[Fixed Deposit Calculator](https://ak-fd-calculator.netlify.app/)**  
    A simple and efficient tool to calculate returns on fixed deposits based on principal, interest rate, and time period.  
